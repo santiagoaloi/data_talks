@@ -56,7 +56,7 @@
               </v-btn>
               <code>
                 <b> country</b> - its unclear what this field might be used for,
-                since it appears we already have the <b> </b> field, not to
+                since it appears we already have the <b> Land </b> field, not to
                 mention that its not usable for correlation due to misspellings.
                 if the customer consider this field is neccesary, this data must
                 be normalized.

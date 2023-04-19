@@ -11,7 +11,7 @@
               first_name : Vorname (<span class="text-green">String</span>)
             </div>
             <div>
-              last_name : Vorname (<span class="text-green">String</span>)
+              last_name : Nachname (<span class="text-green">String</span>)
             </div>
             <div>email : email (<span class="text-green">String</span>)</div>
             <div>

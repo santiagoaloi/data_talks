@@ -18,7 +18,7 @@
               address : Address__1 (<span class="text-green">String</span>)
             </div>
             <div>
-              Zipcode : postal_code (<span class="text-green">String</span>)
+              postal_code : Zipcode (<span class="text-green">String</span>)
             </div>
             <div>city : City (<span class="text-green">String</span>)</div>
             <div>country : Land (<span class="text-green">String</span>)</div>

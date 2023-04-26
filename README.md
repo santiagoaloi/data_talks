@@ -8,7 +8,7 @@
 
 We have just gotten a new customer and they need to be set up on Data Talks. The customer has sent an export of their ticketing system for single-ticket buyers. Your task is to create data mapping in accordance with the [Data Talks structure](https://www.datatalks.se/documentation/data-points/) and [Documentation ](https://www.datatalks.se/documentation/api-reference/)
 
-and documentation. Attached, you will find the export in CSV.
+Attached, you will find the export in CSV.
 
 What attributes should be considered as Profile, Events, and Inventory data points with their respective data types (string, integer, etc.)
 

@@ -1,0 +1,7 @@
+id,email,scanned,registered,cancelled,points,imported,bounced,country,Email Client,ticket ID,Address,Vorname,Nachname,Birthday,Address,Zipcode,City,Land,Language,Membership status,Member ID,Marketing Consent,Last merchandise order,source,Ticket Price,Ticket Category,Opponent,Event Date
+3,customer@email.com,2020-11-30 14:30:52,2020-08-18 16:16:18,,86,,0,sweden,webmail service,TFEI9064-11,Mr,Albert,Johnsson,1990-01-01,Street 1 ,121 31,Stockholm,Sweden,SW;DE,Gold,121111,Y,2023/01/01,RESTful API,13,Standing,AIK,2023-01-01
+1.19,customer@email.com,2022-10-10 16:40:52,2020-08-24 16:45:53,2023-03-14 06:45:03,80,,0,sveden,gmail,TSCH082-2,Mr,Roland,Kekesi,19920313,Street 2,122333,Göteborg,Sweden,SW;DE,Silver,761111,N,2022/7/23,RESTful API,7.5,Family,Hammarby,2023-02-01
+19 6,customer@email,25/08/2020,2020-08-25 11:47:22,,50,,0,Swden,gmail,67,Mr,Karl,Yildiz,1978-12-19,,136z14,Berlin,Germany,DE,- ,21345,Y,-,RESTful API,25,VIP Bronze,AIK,2023-01-01
+317,customeremail.com,2020-08-25 11:48:05,25/08/2020,,60,,0,SWEDEN,webmail service,1130,Company,Klarion,Hess,03/11/1976,Street 4,78671,Uppsala,Sweden,SW;DE,1,1289,Y,2019-01-01,RESTful API,4,Standing children,Djurgården,2023-03-01
+452a,,2020-08-25 11:48:47,2020-08-25 11:48:47,,53,,0,Germany,webmail service,1261,Ms,Ulle,Hung,,Street 5,929911,Oslo,Norway,DE;NW,Gold,90123,N,-,RESTful API,16,Retired,AIK,2022-01-01
+,customeremail@email..com,25/08/2020,2020-08-25 11:49:46,,60,,0,Deautschland,IPhone,377,Mrs,Matthias,Gert,,Street 6,66521,Oslo,Norway,DE.NW,Silver,634543,Y,-,RESTful API,66,VIP Gold,Halmstad,2023-02-02

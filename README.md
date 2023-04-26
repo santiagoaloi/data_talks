@@ -10,6 +10,12 @@ We have just gotten a new customer and they need to be set up on Data Talks. The
 
 Attached, you will find the export in CSV.
 
+```bash
+App (root)
+└─ CSV
+   └─ Onboarding Specialist - Single ticket data - test.csv
+```
+
 What attributes should be considered as Profile, Events, and Inventory data points with their respective data types (string, integer, etc.)
 
 - What unique key(s) do you suggest we apply to identify a supporter,

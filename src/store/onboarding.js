@@ -18,7 +18,7 @@ export const useOnboardingStore = defineStore("onboardng", () => {
   //Raw Data from CSV to JSON
   const data = ref(RawData);
 
-  //Data point
+  // Data point
   // generate the right "person type" api schema
   const profileData = computed(() => {
     return data.value.map((raw) => {

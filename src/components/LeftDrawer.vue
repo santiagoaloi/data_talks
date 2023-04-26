@@ -48,10 +48,6 @@
           title="Cleaning"
         ></v-list-item>
       </v-list>
-
-      <template v-slot:append>
-        <div class="pa-2"></div>
-      </template>
     </v-navigation-drawer>
   </v-card>
 </template>

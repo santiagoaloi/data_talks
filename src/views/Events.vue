@@ -3,7 +3,7 @@
     <v-card-title> Events object keys mapping </v-card-title>
 
     <v-card-subtitle>
-      Readlony computed mapping of object keys from raw data to match Api
+      Readonly computed mapping of object keys from raw data to match Api
       Schema</v-card-subtitle
     >
 
